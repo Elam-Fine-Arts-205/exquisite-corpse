@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-# *(unique title from stage one goes here)*
+## 🔻 *(unique title from stage one goes here)* 🔻
 
 This file contains:
 - Briefs for each stage of the assignment
