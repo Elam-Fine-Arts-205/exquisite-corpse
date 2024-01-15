@@ -1,7 +1,8 @@
-# Exquisite Corpse in Silico - FINEARTS 205 Assignment
+# Exquisite Corpse in Silico
+# *(unique title from stage one goes here)*
 
 This file contains:
-- Briefs for each stage of the Exquisite Corpse assignment
+- Briefs for each stage of the assignment
 - Comments from each person who has developed this work
 
 **Please only edit the comments section for the stage of the assignmnent you are working on. Leave the rest of this file as it is.**
