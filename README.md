@@ -1,8 +1,8 @@
 # Exquisite Corpse in Silico - FINEARTS 205 Assignment
 
 This file contains:
-- Comments from each person who has worked on this repository
 - Briefs for each stage of the Exquisite Corpse assignment
+- Comments from each person who has developed this work
 
 **Please only edit the comments section for the stage of the assignmnent you are working on. Leave the rest of this file as it is.**
 
@@ -11,55 +11,55 @@ This file contains:
 
 This file contains the instructions for each stage of the assignment. Please include your comments for each stage in the **sections below these instructions**, and please make sure not to edit any of the instructions.
 
-### Stage one
+### 🔴 Stage 1
 This brief relates to Workshop 3: Images
 
-### Stage two
+### 🟡 Stage 2
 This brief  relates to Workshop 4: Interactivity
 
-### Stage three
+### 🟢 Stage 3
 This brief  relates to Workshop 5: Data and visualisation
 
-### Stage four
+### 🔵 Stage 4
 This brief relates to Workshop 6: Text and language
 
-### Stage five
+### 🟣 Stage 5
 This brief relates to Workshop 7: Simulation
 
 *****
 ## Comments for each stage
 
-### Stage one
+### 🟥 Stage 1
 - Name/Alias:
 - Github account:
 - Link to webpage for this stage:
 
 *comments to be added here*
 
-### Stage two
+### 🟨 Stage 2
 - Name/Alias:
 - Github account:
 - Link to webpage for this stage:
 
 *comments to be added here*
 
-### Stage three
+### 🟩 Stage 3
 - Name/Alias:
 - Github account:
 - Link to webpage for this stage:
 
 *comments to be added here*
 
-### Stage four
-Name/Alias:
-Github account:
-Link to webpage for this stage:
+### 🟦 Stage 4
+- Name/Alias:
+- Github account:
+- Link to webpage for this stage:
 
 *comments to be added here*
 
-### Stage five
-Name/Alias:
-Github account:
-Link to webpage for this stage:
+### 🟪 Stage 5
+- Name/Alias:
+- Github account:
+- Link to webpage for this stage:
 
 *comments to be added here*
