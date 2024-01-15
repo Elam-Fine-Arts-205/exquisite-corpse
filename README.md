@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage one goes here)* 🔻
+## 🔻 *(unique title from stage 1 goes here)* 🔻
 
 This file contains:
 - Briefs for each stage of the assignment
@@ -33,34 +33,34 @@ This brief relates to Workshop 7: Simulation
 ### 🟥 Stage 1
 - Name/Alias:
 - Github account:
-- Link to webpage for this stage:
+- Published webpage for stage 1:
 
 *comments to be added here*
 
 ### 🟨 Stage 2
 - Name/Alias:
 - Github account:
-- Link to webpage for this stage:
+- Published webpage for stage 2:
 
 *comments to be added here*
 
 ### 🟩 Stage 3
 - Name/Alias:
 - Github account:
-- Link to webpage for this stage:
+- Published webpage for stage 3:
 
 *comments to be added here*
 
 ### 🟦 Stage 4
 - Name/Alias:
 - Github account:
-- Link to webpage for this stage:
+- Published webpage for stage 4:
 
 *comments to be added here*
 
 ### 🟪 Stage 5
 - Name/Alias:
 - Github account:
-- Link to webpage for this stage:
+- Published webpage for stage 5:
 
 *comments to be added here*
