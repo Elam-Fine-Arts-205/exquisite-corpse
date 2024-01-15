@@ -1,7 +1,7 @@
 # Exquisite Corpse in Silico
 ## 🔻 *(unique title from stage 1 goes here)* 🔻
 
-This file contains:
+This README file contains:
 - Briefs for each stage of the assignment
 - Comments from each person who has developed this work
 
@@ -9,8 +9,6 @@ This file contains:
 
 *****
 ## Briefs for each stage
-
-This file contains the instructions for each stage of the assignment. Please include your comments for each stage in the **sections below these instructions**, and please make sure not to edit any of the instructions.
 
 ### 🔴 Stage 1
 This brief relates to Workshop 3: Images
