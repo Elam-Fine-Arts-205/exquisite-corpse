@@ -11,19 +11,19 @@ This README file contains:
 ## Briefs for each stage
 
 ### 🔴 Stage 1
-This brief relates to Workshop 3: Images
+(brief will be added here soon)
 
 ### 🟡 Stage 2
-This brief  relates to Workshop 4: Interactivity
+(brief will be added here soon)
 
 ### 🟢 Stage 3
-This brief  relates to Workshop 5: Data and visualisation
+(brief will be added here soon)
 
 ### 🔵 Stage 4
-This brief relates to Workshop 6: Text and language
+(brief will be added here soon)
 
 ### 🟣 Stage 5
-This brief relates to Workshop 7: Simulation
+(brief will be added here soon)
 
 *****
 ## Comments for each stage
